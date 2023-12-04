@@ -1,5 +1,6 @@
 # BLOG DO ISAIAS
 Páginas     | Link de acesso
 ----------- | -----------
-Passo a passo inicial | [link](documentacao/passoapassoinicial.md)
-Requisitos do projeto | [link](documentacao/requisitos.md)
+Passo a passo inicial | [inicio](documentacao/passoapassoinicial.md)
+Requisitos do projeto | [requisitos](documentacao/requisitos.md)
+Passo a passo Git | [git](documentacao/passoapassogit.md)
