@@ -1,0 +1,23 @@
+.nav-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-um {
+    flex: 0 0 auto;
+}
+
+.header-dois {
+    flex: 1;
+}
+
+.header-dois ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-dois ul li {
+    list-style: none;
+    margin: 0 10px;
+}
