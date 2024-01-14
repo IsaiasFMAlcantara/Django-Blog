@@ -8,6 +8,11 @@
     flex: 0 0 auto;
 }
 
+.header-um a img {
+    width: 60px;
+    height:60px;
+}
+
 .header-dois {
     flex: 1;
 }
